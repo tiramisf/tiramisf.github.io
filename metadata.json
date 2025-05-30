@@ -1,0 +1,6 @@
+{
+  "name": "Copy of Text Relationship Visualizer",
+  "description": "A tool to visualize relationships between text entries from a JSON lorebook.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
